@@ -16,3 +16,13 @@ code {
   border: none;
   outline: none;
 }
+
+h6{
+  font-size: 60px;
+  font-weight: 300;
+}
+
+#search-bar:focus{
+  border: none;
+  outline: none;
+}
