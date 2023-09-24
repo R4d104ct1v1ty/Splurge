@@ -26,3 +26,7 @@ h6{
   border: none;
   outline: none;
 }
+
+#search-button:hover{
+  fill: black;
+}
