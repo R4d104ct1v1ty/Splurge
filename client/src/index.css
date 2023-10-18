@@ -22,11 +22,18 @@ h6{
   font-weight: 300;
 }
 
-#search-bar:focus{
-  border: none;
-  outline: none;
+
+/*********Navbar*********/
+.nav-item{
+  font-size: 20px;
 }
 
-#search-button:hover{
-  fill: black;
+
+/*********Products page*********/
+.product-page {
+  display: grid;
+}
+
+.explore-products{
+  justify-self: center;
 }
