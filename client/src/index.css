@@ -37,3 +37,30 @@ h6{
 .explore-products{
   justify-self: center;
 }
+
+.dropdown{
+  margin-left: 5%;
+}
+
+.dropdown button{
+  font-size: 20px;
+}
+
+.dropdown div{
+  font-size: 20px;
+}
+
+.product-list{
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  gap: 20px;
+  padding: 2%;
+}
+
+.card {
+  height: 100%;
+}
+/* .product-item {
+  flex-basis: 25%;
+} */

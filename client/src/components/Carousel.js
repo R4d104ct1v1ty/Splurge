@@ -14,19 +14,19 @@ const Carousel = () => {
             <div className="carousel-inner">
                 <div className="carousel-item active">
                     <img className="d-block w-100" src={fashion} alt="First slide" style={{height: "90vh"}}/>
-                    <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-caption d-none d-md-block">
                         <h6>FASHION</h6>
                     </div>
                 </div>
                 <div className="carousel-item">
                     <img className="d-block w-100" src={Accessories} alt="Second slide" style={{height: "90vh"}}/>
-                    <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-caption d-none d-md-block">
                         <h6>ACCESSORIES</h6>
                     </div>
                 </div>
                 <div className="carousel-item">
                     <img className="d-block w-100" src={Laptop} alt="Third slide" style={{height: "90vh"}}/>
-                    <div class="carousel-caption d-none d-md-block">
+                    <div className="carousel-caption d-none d-md-block">
                         <h6>ELECTRONICS</h6>
                     </div>
                 </div>
